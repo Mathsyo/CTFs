@@ -10,7 +10,7 @@ https://midnightflag.fr/
 * Total points : 1490pts
 * 49th/114 (general)
 * 25th/64 (students)
-## — Challenges (46)
+## — Challenges
 ### — Reverse
 | ? | Name | Points | Author | WU |
 | :- | :- | :- | :- | :- |
