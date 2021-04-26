@@ -12,13 +12,13 @@ https://midnightflag.fr/
 * 25th/64 (students)
 ## — Challenges (46)
 ### — Reverse
-| ❔ | Name | Points | Author | WU |
+| ? | Name | Points | Author | WU |
 | :- | :- | :- | :- | :- |
-| :x: | Cadeau à la NSA | - | - | - |
-| ✔️ | La grande évasion | - | - | - |
-| :x: | Cryptographie louche | - | - | - |
-| :x: | La bombe | - | - | - | 
-| :x: | Key Checker | - | - | - |
+| 0 | Cadeau à la NSA | - | - | - |
+| 1 | La grande évasion | - | - | - |
+| 0 | Cryptographie louche | - | - | - |
+| 0 | La bombe | - | - | - | 
+| 0 | Key Checker | - | - | - |
 ### — Cryptography
 | ❔ | Name | Points | Author | WU |
 | :- | :- | :- | :- | :- |
@@ -42,15 +42,15 @@ https://midnightflag.fr/
 ### — Steganography
 | ❔ | Name | Points | Author | WU |
 | :- | :- | :- | :- | :- |
-| :x: | Langage Machine #1 | - | - | - |
-| :x: | Langage Machine #2 | - | - | - |
-| :x: | WWI | - | - | - |
-| :x: | Du bout des doigts | - | - | - |
+| 1 | Langage Machine #1 | - | - | - |
+| 1 | Langage Machine #2 | - | - | - |
+| 1 | WWI | - | - | - |
+| 1 | Du bout des doigts | - | - | - |
 | :x: | The hidden message | - | - | - |
 ### — Web
 | ❔ | Name | Points | Author | WU |
 | :- | :- | :- | :- | :- |
-| :x: | Node madness | - | - | - |
+| 1 | Node madness | - | - | - |
 | :x: | Register | - | - | - |
 | :x: | Saignant ma viande | - | - | - |
 | :x: | Secret manager | - | - | - |
@@ -59,34 +59,34 @@ https://midnightflag.fr/
 ### — Misc
 | ❔ | Name | Points | Author | WU |
 | :- | :- | :- | :- | :- |
-| :x: | Cute bot | - | - | - |
-| :x: | Devoirs | - | - | - |
+| 1 | Cute bot | - | - | - |
+| 1 | Devoirs | - | - | - |
 | :x: | Secure shell | - | - | - |
 | :x: | Le chemin tordu | - | - | - |
 | :x: | Not for trade | - | - | - |
 ### — OSINT
 | ❔ | Name | Points | Author | WU |
 | :- | :- | :- | :- | :- |
-| :x: | Save your streamer | - | - | - |
-| :x: | Back to the past #1 | - | - | - |
+| 1 | Save your streamer | - | - | - |
+| 1 | Back to the past #1 | - | - | - |
 | :x: | Back to the past #2 | - | - | - |
 | :x: | Back to the past #3 | - | - | - |
 ### — Network
 | ❔ | Name | Points | Author | WU |
 | :- | :- | :- | :- | :- |
-| :x: | Do you know ARP | - | - | - |
+| 1 | Do you know ARP | - | - | - |
 | :x: | Codage couches basses | - | - | - |
 | :x: | Endianness | - | - | - |
 | :x: | Indicateur 2 compromis | - | - | - |
 ### — Android
 | ❔ | Name | Points | Author | WU |
 | :- | :- | :- | :- | :- |
-| :x: | Login Page | - | - | - |
+| 1 | Login Page | - | - | - |
 | :x: | Keep passDroid | - | - | - |
 ### — Forensic
 | ❔ | Name | Points | Author | WU |
 | :- | :- | :- | :- | :- |
-| :x: | Toxic | - | - | - |
+| 1 | Toxic | - | - | - |
 | :x: | Teaser key #1 | - | - | - |
 | :x: | Teaser key #2 | - | - | - |
 | :x: | Teaser key #3 | - | - | - |
