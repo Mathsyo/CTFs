@@ -12,13 +12,13 @@ https://midnightflag.fr/
 * 25th/64 (students)
 ## — Challenges (46)
 ### — Reverse
-| \❔ | Name | Points | Author | WU |
-| :--- | :----- | :----- | :----- | :- |
-| Cadeau à la NSA | ❌ | - | - | - |
-| La grande évasion | :x: | - | - | - |
-| Cryptographie louche | :x: | - | - | - |
-| La bombe | :x: | - | - | - | 
-| Key Checker | :x: | - | - | - |
+| ❔ | Name | Points | Author | WU |
+| :- | :- | :- | :- | :- |
+| :x: | Cadeau à la NSA | - | - | - |
+| ✔️ | La grande évasion | - | - | - |
+| :x: | Cryptographie louche | - | - | - |
+| :x: | La bombe | - | - | - | 
+| :x: | Key Checker | - | - | - |
 ### — Cryptography
 ### — Realistic
 ### — Pwn
