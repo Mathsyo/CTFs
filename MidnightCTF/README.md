@@ -12,7 +12,7 @@ https://midnightflag.fr/
 * 25th/64 (students)
 ## — Challenges (46)
 ### — Reverse
-| Name | Done ? | Points | Author | WU |
+| \❔ | Name | Points | Author | WU |
 | :--- | :----- | :----- | :----- | :- |
 | Cadeau à la NSA | ❌ | - | - | - |
 | La grande évasion | :x: | - | - | - |
