@@ -22,23 +22,23 @@ https://midnightflag.fr/
 ### — Cryptography
 | ❔ | Name | Points | Author | WU |
 | :- | :- | :- | :- | :- |
-| :x: | Acide ou Basique | - | - | - |
-| :x: | Chrash imminent | - | - | - |
-| :x: | Something Missing | - | - | - |
-| :x: | Shrodinger Encryption | - | - | - |
+| 0 | Acide ou Basique | - | - | - |
+|  | Chrash imminent | - | - | - |
+| 0 | Something Missing | - | - | - |
+| 0 | Shrodinger Encryption | - | - | - |
 ### — Realistic
 | ❔ | Name | Points | Author | WU |
 | :- | :- | :- | :- | :- |
-| :x: | Route moi - Mel | - | - | - |
-| :x: | Nhaugstyng | - | - | - |
+| 0 | Route moi - Mel | - | - | - |
+| 0 | Nhaugstyng | - | - | - |
 ### — Pwn
 | ❔ | Name | Points | Author | WU |
 | :- | :- | :- | :- | :- |
-| :x: | Introduction | - | - | - |
-| :x: | Prison Break | - | - | - |
-| :x: | Return Room | - | - | - |
-| :x: | Canary Friendly | - | - | - |
-| :x: | Random rope | - | - | - |
+| 0 | Introduction | - | - | - |
+| 0 | Prison Break | - | - | - |
+| 0 | Return Room | - | - | - |
+| 0 | Canary Friendly | - | - | - |
+| 0 | Random rope | - | - | - |
 ### — Steganography
 | ❔ | Name | Points | Author | WU |
 | :- | :- | :- | :- | :- |
@@ -46,47 +46,47 @@ https://midnightflag.fr/
 | 1 | Langage Machine #2 | - | - | - |
 | 1 | WWI | - | - | - |
 | 1 | Du bout des doigts | - | - | - |
-| :x: | The hidden message | - | - | - |
+| 0 | The hidden message | - | - | - |
 ### — Web
 | ❔ | Name | Points | Author | WU |
 | :- | :- | :- | :- | :- |
 | 1 | Node madness | - | - | - |
-| :x: | Register | - | - | - |
-| :x: | Saignant ma viande | - | - | - |
-| :x: | Secret manager | - | - | - |
-| :x: | Browser in Browser | - | - | - |
-| :x: | Faux comme un jeton | - | - | - |
+| 0 | Register | - | - | - |
+| 0 | Saignant ma viande | - | - | - |
+| 0 | Secret manager | - | - | - |
+| 0 | Browser in Browser | - | - | - |
+| 0 | Faux comme un jeton | - | - | - |
 ### — Misc
 | ❔ | Name | Points | Author | WU |
 | :- | :- | :- | :- | :- |
 | 1 | Cute bot | - | - | - |
 | 1 | Devoirs | - | - | - |
-| :x: | Secure shell | - | - | - |
-| :x: | Le chemin tordu | - | - | - |
-| :x: | Not for trade | - | - | - |
+| 0 | Secure shell | - | - | - |
+| 0 | Le chemin tordu | - | - | - |
+| 0 | Not for trade | - | - | - |
 ### — OSINT
 | ❔ | Name | Points | Author | WU |
 | :- | :- | :- | :- | :- |
 | 1 | Save your streamer | - | - | - |
 | 1 | Back to the past #1 | - | - | - |
-| :x: | Back to the past #2 | - | - | - |
-| :x: | Back to the past #3 | - | - | - |
+| 0 | Back to the past #2 | - | - | - |
+| 0 | Back to the past #3 | - | - | - |
 ### — Network
 | ❔ | Name | Points | Author | WU |
 | :- | :- | :- | :- | :- |
 | 1 | Do you know ARP | - | - | - |
-| :x: | Codage couches basses | - | - | - |
-| :x: | Endianness | - | - | - |
-| :x: | Indicateur 2 compromis | - | - | - |
+| 0 | Codage couches basses | - | - | - |
+| 0 | Endianness | - | - | - |
+| 0 | Indicateur 2 compromis | - | - | - |
 ### — Android
 | ❔ | Name | Points | Author | WU |
 | :- | :- | :- | :- | :- |
 | 1 | Login Page | - | - | - |
-| :x: | Keep passDroid | - | - | - |
+| 0 | Keep passDroid | - | - | - |
 ### — Forensic
 | ❔ | Name | Points | Author | WU |
 | :- | :- | :- | :- | :- |
 | 1 | Toxic | - | - | - |
-| :x: | Teaser key #1 | - | - | - |
-| :x: | Teaser key #2 | - | - | - |
-| :x: | Teaser key #3 | - | - | - |
+| 0 | Teaser key #1 | - | - | - |
+| 0 | Teaser key #2 | - | - | - |
+| 0 | Teaser key #3 | - | - | - |
