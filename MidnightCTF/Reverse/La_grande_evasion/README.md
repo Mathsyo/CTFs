@@ -13,7 +13,7 @@ $ avr-objcopy -I ihex challenge.hex -O binary firmware.bin && strings firmware.b
 Tout le défi ici se trouve dans la recherche de l'outil et des commandes à utiliser pour reverse un fichier ihex arduino. On constate en effet que les outils classiques tels que strings, objdump et tout ne sont pas d'une grande utilité à cause du format de ce fichier.
 * Si on n'aime pas télécharger d'outils, on peut se renseigner sur le format de fichier ihex et se rendre compte que les données qui y sont présentes sont simplement encodées en hexa : si on cherche "MCTF" en hexa (4d435446) dans le fichier, on trouve l'endroit où se trouve le flag (grep -i 4d435446 challenge.hex) et on peut le reconstituer à partir de notre connaissance du format de fichier ihex.
 * Si on a avr-objdump, un simple avr-objdump -s -j .sec1 -m avr5 challenge.hex fait l'affaire !
-*
+
 ## 3
 ```python
 #!/usr/bin/python
