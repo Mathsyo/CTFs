@@ -2,9 +2,6 @@
 Une alarme pilotée par un arduino a été cachée dans les faux plafonds de l'ESNA. Pour partir en pause plus tôt, vous avez pour projet de déclencher l'alarme à distance pour que les élèves soient évacués de la classe. Vous avez réussi à prendre la main sur la machine qui pilote l'arduino, mais il vous manque un code secret pour activer l'alarme.
 Sans doute arriverez-vous à le retrouver en analysant le fichier .hex qui a été chargé sur l'arduino en question !
 
-# Ressources
-* [challenge.hex](https://github.com/Mathsyo/CTFs/blob/main/MidnightCTF/Reverse/La%20grande%20%C3%A9vasion/challenge.hex) 
-
 # Write UP
 
 ## 1
