@@ -1,9 +1,6 @@
 # Description 
 Il vous est parvenu que les étudiants de l'ESNA font circuler les mots de passe des machines partagées dans un gestionnaire de mots de passe customisé. Il se présente sous la forme d'un exécutable dans lequel les mots de passe sont camouflés, ce qui le rend très portable et facile à échanger. Il est de notoriété publique que la sécurité des mots de passe contenus à l'intérieur de l'exécutable est très faible, mais vous êtes curieux de savoir s'il est possible d'aller plus loin et de compromettre le mot de passe racine du gestionnaire de mots de passe en lui-même !
 
-# Ressources
-[KeeCustom.bin]()
-
 # Write UP
 Nous avons un binaire qui nous demande un mot de passe, et qui prétend déchiffrer du contenu si on le lui donne. Si on veut jouer les malins, on pourrait tenter de voir s'il est possible de déchiffrer le contenu en question sans le mot de passe en regardant la fonction unlock_content, avant de se rendre compte qu'il n'y a même pas besoin de le déchiffrer : il est hardcodé en clair dans le binaire. Mais il ne contient pas le flag.
 
