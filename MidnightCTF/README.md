@@ -14,11 +14,11 @@ https://midnightflag.fr/
 ### Reverse
 |   | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
-| 0 | Cadeau à la NSA | - | - | - |
-| 1 | La grande évasion | - | - | - |
-| 0 | Cryptographie louche | - | - | - |
-| 0 | La bombe | - | - | - | 
-| 0 | Key Checker | - | - | - |
+| 0 | Cadeau à la NSA | 150 | SeulAParis | [here](https://github.com/Mathsyo/CTFs/tree/main/MidnightCTF/Reverse/Cadeau_NSA) |
+| 1 | La grande évasion | 190 | SeulAParis | [here](https://github.com/Mathsyo/CTFs/tree/main/MidnightCTF/Reverse/Cadeau_NSA) |
+| 0 | Cryptographie louche | 250 | SeulAParis | - |
+| 0 | La bombe | 325 | SeulAParis | - | 
+| 0 | Key Checker | 600 | SeulAParis | - |
 ### Cryptography
 |   | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
