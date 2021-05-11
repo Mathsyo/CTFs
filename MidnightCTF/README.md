@@ -1,17 +1,17 @@
-# — MidnightFlag
-## — Link
+# MidnightFlag
+## Link
 https://midnightflag.fr/
-## — Team `Voyageur256`
-### — Members
+## Team `Voyageur256`
+### Members
 * Coraya(#5667) - 835pts
 * Lunodeusp(#4843) - 235pts
 * Math_syo(#2087) - 420pts
-### — Score
+### Score
 * Total points : 1490pts
 * 49th/114 (general)
 * 25th/64 (students)
-## — Challenges
-### — Reverse
+## Challenges
+### Reverse
 |   | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
 | 0 | Cadeau à la NSA | - | - | - |
@@ -19,19 +19,19 @@ https://midnightflag.fr/
 | 0 | Cryptographie louche | - | - | - |
 | 0 | La bombe | - | - | - | 
 | 0 | Key Checker | - | - | - |
-### — Cryptography
+### Cryptography
 |   | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
 | 0 | Acide ou Basique | - | - | - |
 | 0 | Chrash imminent | - | - | - |
 | 0 | Something Missing | - | - | - |
 | 0 | Shrodinger Encryption | - | - | - |
-### — Realistic
+### Realistic
 |   | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
 | 0 | Route moi - Mel | - | - | - |
 | 0 | Nhaugstyng | - | - | - |
-### — Pwn
+### Pwn
 |   | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
 | 0 | Introduction | - | - | - |
@@ -39,7 +39,7 @@ https://midnightflag.fr/
 | 0 | Return Room | - | - | - |
 | 0 | Canary Friendly | - | - | - |
 | 0 | Random rope | - | - | - |
-### — Steganography
+### Steganography
 |  | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
 | 1 | Langage Machine #1 | - | - | - |
@@ -47,7 +47,7 @@ https://midnightflag.fr/
 | 1 | WWI | - | - | - |
 | 1 | Du bout des doigts | - | - | - |
 | 0 | The hidden message | - | - | - |
-### — Web
+### Web
 |   | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
 | 1 | Node madness | - | - | - |
@@ -56,7 +56,7 @@ https://midnightflag.fr/
 | 0 | Secret manager | - | - | - |
 | 0 | Browser in Browser | - | - | - |
 | 0 | Faux comme un jeton | - | - | - |
-### — Misc
+### Misc
 |   | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
 | 1 | Cute bot | - | - | - |
@@ -64,26 +64,26 @@ https://midnightflag.fr/
 | 0 | Secure shell | - | - | - |
 | 0 | Le chemin tordu | - | - | - |
 | 0 | Not for trade | - | - | - |
-### — OSINT
+### OSINT
 |   | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
 | 1 | Save your streamer | - | - | - |
 | 1 | Back to the past #1 | - | - | - |
 | 0 | Back to the past #2 | - | - | - |
 | 0 | Back to the past #3 | - | - | - |
-### — Network
+### Network
 |   | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
 | 1 | Do you know ARP | - | - | - |
 | 0 | Codage couches basses | - | - | - |
 | 0 | Endianness | - | - | - |
 | 0 | Indicateur 2 compromis | - | - | - |
-### — Android
+### Android
 |   | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
 | 1 | Login Page | - | - | - |
 | 0 | Keep passDroid | - | - | - |
-### — Forensic
+### Forensic
 |   | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
 | 1 | Toxic | - | - | - |
