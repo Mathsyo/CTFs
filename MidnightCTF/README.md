@@ -12,7 +12,7 @@ https://midnightflag.fr/
 * 25th/64 (students)
 ## — Challenges
 ### — Reverse
-|   | Name | Points | Author | WU |
+|   | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
 | 0 | Cadeau à la NSA | - | - | - |
 | 1 | La grande évasion | - | - | - |
@@ -20,19 +20,19 @@ https://midnightflag.fr/
 | 0 | La bombe | - | - | - | 
 | 0 | Key Checker | - | - | - |
 ### — Cryptography
-|   | Name | Points | Author | WU |
+|   | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
 | 0 | Acide ou Basique | - | - | - |
 | 0 | Chrash imminent | - | - | - |
 | 0 | Something Missing | - | - | - |
 | 0 | Shrodinger Encryption | - | - | - |
 ### — Realistic
-|   | Name | Points | Author | WU |
+|   | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
 | 0 | Route moi - Mel | - | - | - |
 | 0 | Nhaugstyng | - | - | - |
 ### — Pwn
-|   | Name | Points | Author | WU |
+|   | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
 | 0 | Introduction | - | - | - |
 | 0 | Prison Break | - | - | - |
@@ -40,7 +40,7 @@ https://midnightflag.fr/
 | 0 | Canary Friendly | - | - | - |
 | 0 | Random rope | - | - | - |
 ### — Steganography
-|  | Name | Points | Author | WU |
+|  | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
 | 1 | Langage Machine #1 | - | - | - |
 | 1 | Langage Machine #2 | - | - | - |
@@ -48,7 +48,7 @@ https://midnightflag.fr/
 | 1 | Du bout des doigts | - | - | - |
 | 0 | The hidden message | - | - | - |
 ### — Web
-|   | Name | Points | Author | WU |
+|   | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
 | 1 | Node madness | - | - | - |
 | 0 | Register | - | - | - |
@@ -57,7 +57,7 @@ https://midnightflag.fr/
 | 0 | Browser in Browser | - | - | - |
 | 0 | Faux comme un jeton | - | - | - |
 ### — Misc
-|   | Name | Points | Author | WU |
+|   | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
 | 1 | Cute bot | - | - | - |
 | 1 | Devoirs | - | - | - |
@@ -65,26 +65,26 @@ https://midnightflag.fr/
 | 0 | Le chemin tordu | - | - | - |
 | 0 | Not for trade | - | - | - |
 ### — OSINT
-|   | Name | Points | Author | WU |
+|   | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
 | 1 | Save your streamer | - | - | - |
 | 1 | Back to the past #1 | - | - | - |
 | 0 | Back to the past #2 | - | - | - |
 | 0 | Back to the past #3 | - | - | - |
 ### — Network
-|   | Name | Points | Author | WU |
+|   | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
 | 1 | Do you know ARP | - | - | - |
 | 0 | Codage couches basses | - | - | - |
 | 0 | Endianness | - | - | - |
 | 0 | Indicateur 2 compromis | - | - | - |
 ### — Android
-|   | Name | Points | Author | WU |
+|   | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
 | 1 | Login Page | - | - | - |
 | 0 | Keep passDroid | - | - | - |
 ### — Forensic
-|   | Name | Points | Author | WU |
+|   | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
 | 1 | Toxic | - | - | - |
 | 0 | Teaser key #1 | - | - | - |
