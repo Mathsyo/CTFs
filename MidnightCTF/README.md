@@ -56,48 +56,48 @@ https://midnightflag.fr/
 ### Web
 |   | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
-| 1 | Node madness | 70 | Worty | [here](LINK) |
-| 0 | Register | 115 | Worty | [here](LINK) |
-| 0 | Saignant ma viande | 200 | Saignant ma viande | [here](LINK) |
-| 0 | Secret manager | 250 | Worty | [here](LINK) |
-| 0 | Browser in Browser | 270 | - | [here](LINK) |
-| 0 | Faux comme un jeton | 300 | Huriken | [here](LINK) |
+| 1 | Node madness | 70 | Worty | [here](https://github.com/Mathsyo/CTFs/tree/main/MidnightCTF/Web/Node_madness) |
+| 0 | Register | 115 | Worty | [here](https://github.com/Mathsyo/CTFs/tree/main/MidnightCTF/Web/Register) |
+| 0 | Saignant ma viande | 200 | Saignant ma viande | [here](https://github.com/Mathsyo/CTFs/tree/main/MidnightCTF/Web/Saignant_ma_viande) |
+| 0 | Secret manager | 250 | Worty | [here](https://github.com/Mathsyo/CTFs/tree/main/MidnightCTF/Web/Secret_manager) |
+| 0 | Browser in Browser | 270 | - | [here](https://github.com/Mathsyo/CTFs/tree/main/MidnightCTF/Web/Browser_in_browser) |
+| 0 | Faux comme un jeton | 300 | Huriken | [here](https://github.com/Mathsyo/CTFs/tree/main/MidnightCTF/Web/Faux_comme_un_jeton) |
 
 ### Misc
 |   | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
-| 1 | Cute bot | - | - | - |
-| 1 | Devoirs | - | - | - |
-| 0 | Secure shell | - | - | - |
-| 0 | Le chemin tordu | - | - | - |
-| 0 | Not for trade | - | - | - |
+| 1 | Cute bot | 10 | Worty | [here](https://github.com/Mathsyo/CTFs/tree/main/MidnightCTF/Misc/Cute_bot) |
+| 1 | Devoirs | 25 | ouanair | [here](https://github.com/Mathsyo/CTFs/tree/main/MidnightCTF/Misc/Devoirs) |
+| 0 | Secure shell | 180 | Worty | [here](https://github.com/Mathsyo/CTFs/tree/main/MidnightCTF/Misc/Secure_shell) |
+| 0 | Le chemin tordu | 200 | Worty | [here](https://github.com/Mathsyo/CTFs/tree/main/MidnightCTF/Misc/Le_chemin_tordu) |
+| 0 | Not for trade | 275 | Worty | [here](https://github.com/Mathsyo/CTFs/tree/main/MidnightCTF/Misc/Not_for_trade) |
 
 ### OSINT
 |   | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
-| 1 | Save your streamer | - | - | - |
-| 1 | Back to the past #1 | - | - | - |
-| 0 | Back to the past #2 | - | - | - |
-| 0 | Back to the past #3 | - | - | - |
+| 1 | Save your streamer | 200 | NeoZorka | [here](https://github.com/Mathsyo/CTFs/tree/main/MidnightCTF/Osint/Save_your_streamer) |
+| 1 | Back to the past #1 | 150 | Kazuno | [here](https://github.com/Mathsyo/CTFs/tree/main/MidnightCTF/Osint/Back_to_the_past-1) |
+| 0 | Back to the past #2 | 250 | Kazuno | [here](https://github.com/Mathsyo/CTFs/tree/main/MidnightCTF/Osint/Back_to_the_past-2) |
+| 0 | Back to the past #3 | - | Kazuno | [here](https://github.com/Mathsyo/CTFs/tree/main/MidnightCTF/Osint/Back_to_the_past-3) |
 
 ### Network
 |   | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
-| 1 | Do you know ARP | - | - | - |
-| 0 | Codage couches basses | - | - | - |
-| 0 | Endianness | - | - | - |
-| 0 | Indicateur 2 compromis | - | - | - |
+| 1 | Do you know ARP | 150 | Error404 | [here](https://github.com/Mathsyo/CTFs/tree/main/MidnightCTF/Network/Do_you_know_ARP) |
+| 0 | Codage couches basses | 150 | ouanair | [here](https://github.com/Mathsyo/CTFs/tree/main/MidnightCTF/Network/Codage_couches_basses) |
+| 0 | Endianness | 200 | N3oWind | [here](https://github.com/Mathsyo/CTFs/tree/main/MidnightCTF/Network/Endianness) |
+| 0 | Indicateur 2 compromis | 235 | ouanair | [here](https://github.com/Mathsyo/CTFs/tree/main/MidnightCTF/Network/Indicateur_2_compromis) |
 
 ### Android
 |   | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
-| 1 | Login Page | - | - | - |
-| 0 | Keep passDroid | - | - | - |
+| 1 | Login Page | 80 | Sonata | [here](https://github.com/Mathsyo/CTFs/tree/main/MidnightCTF/Android/Login_page) |
+| 0 | Keep passDroid | 225 | Worty | [here](https://github.com/Mathsyo/CTFs/tree/main/MidnightCTF/Android/Keep_pass_droid) |
 
 ### Forensic
 |   | Name | Points | Author |  |
 | :- | :- | :- | :- | :- |
-| 1 | Toxic | - | - | - |
-| 0 | Teaser key #1 | - | - | - |
-| 0 | Teaser key #2 | - | - | - |
-| 0 | Teaser key #3 | - | - | - |
+| 1 | Toxic | 80 | Kazuno | [here](https://github.com/Mathsyo/CTFs/tree/main/MidnightCTF/Forensic/Toxic) |
+| 0 | Teaser key #1 | 115 | Worty | [here](https://github.com/Mathsyo/CTFs/tree/main/MidnightCTF/Forensic/Teaser_keys-1) |
+| 0 | Teaser key #2 | 100 | Worty | [here](https://github.com/Mathsyo/CTFs/tree/main/MidnightCTF/Forensic/Teaser_keys-2) |
+| 0 | Teaser key #3 | 100 | Worty | [here](https://github.com/Mathsyo/CTFs/tree/main/MidnightCTF/Forensic/Teaser_keys-3) |
